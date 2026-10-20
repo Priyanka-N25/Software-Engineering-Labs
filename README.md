@@ -98,7 +98,6 @@ This repository contains my Software Engineering laboratory submissions for Labs
 Each lab is organized in its own folder with an individual README describing its objectives, deliverables, and outcomes. Supporting files such as reports, diagrams, source code, videos, and documentation are maintained in their respective lab folders.
 
 ```text
-```text
 Software-Engineering_Lab/
 ├── README.md
 ├── .gitignore
@@ -136,7 +135,6 @@ Software-Engineering_Lab/
         ├── bandit_report.txt
         ├── issues.md
         └── reflections.md
-```
 ```
 
 ## Purpose
