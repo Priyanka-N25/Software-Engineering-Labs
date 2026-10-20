@@ -98,24 +98,45 @@ This repository contains my Software Engineering laboratory submissions for Labs
 Each lab is organized in its own folder with an individual README describing its objectives, deliverables, and outcomes. Supporting files such as reports, diagrams, source code, videos, and documentation are maintained in their respective lab folders.
 
 ```text
+```text
 Software-Engineering_Lab/
 ├── README.md
+├── .gitignore
 ├── SE_LAB - 01/
 │   ├── README.md
-│   └── Lab 1 submission files
+│   └── SE_LAB 01_PES2UG24CS379.pdf
 ├── SE_LAB - 02/
 │   ├── README.md
-│   └── Lab 2 submission files
+│   └── SE_LAB-02_PES2UG24CS379.pdf
 ├── SE_LAB - 03/
 │   ├── README.md
-│   └── Lab 3 submission files
+│   └── SE_LAB -03_PES2UG24CS379.pdf
 ├── SE_LAB - 04/
+│   ├── 11_maze_chase/
+│   │   ├── README.md
+│   │   ├── main.py
+│   │   ├── requirements.txt
+│   │   └── game/
 │   └── Submissions/
 │       ├── README.md
-│       └── Lab 4 deliverables
+│       ├── before.mp4
+│       ├── after.mp4
+│       └── vibe_coding_chat.pdf
 └── SE_LAB - 05/
     ├── README.md
-    └── Lab 5 submission files
+    ├── 5G_Lab-5-Repo-Assignemnt.xlsx
+    ├── SE_Lab05_Static_Analysis_Results.pdf
+    └── L5_11_scholarship_screener/
+        ├── README.md
+        ├── scholarship_system.py
+        ├── scholarship_system_original.py
+        ├── scholarships.json
+        ├── pylint_report.txt
+        ├── flake8_report.txt
+        ├── bandit_report.txt
+        ├── issues.md
+        └── reflections.md
+```
 ```
 
 ## Purpose
