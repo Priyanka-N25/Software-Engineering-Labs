@@ -14,4 +14,4 @@ SE_LAB - 05/L5_11_scholarship_screener/venv/
 
 # Operating system files
 .DS_Store
-Thumbs.db
+Thumbs.db.coverage
